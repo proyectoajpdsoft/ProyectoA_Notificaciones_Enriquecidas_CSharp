@@ -1,1 +1,1 @@
-# ProyectoANotificacionesEnriquecidas
+Cómo mostrar notificaciones con texto, imágenes y botones de acción (enriquecidas) en el área de notificación de Windows, usando C# de Visual Studio .Net. Estas notificaciones se integrarán con el centro de notificaciones del equipo. Más información en: https://proyectoa.com/mostrar-notificaciones-enriquecidas-en-el-area-de-notificacion-con-c/
